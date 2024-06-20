@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DotchPlayer
 - 👀 I’m interested in coding Stuff to describe it best
-- 🌱 I’m currently learning Java 
+- 🌱 I’m currently learning Rust
 
 <!---
 DotchPlayer/DotchPlayer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
